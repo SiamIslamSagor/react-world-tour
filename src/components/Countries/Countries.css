@@ -11,3 +11,8 @@
 .non-visited {
   background-color: rgb(205, 233, 255);
 }
+
+.flag-container img {
+  width: 100px;
+  height: 100px;
+}
